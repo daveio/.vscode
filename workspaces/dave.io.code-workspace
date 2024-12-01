@@ -1,13 +1,13 @@
 {
 	"folders": [
 		{
-			"path": "../../dave.io"
+			"path": "/Users/dave/src/github.com/daveio/dave.io"
 		},
 		{
-			"path": "../../go.dave.io"
+			"path": "/Users/dave/src/github.com/daveio/go.dave.io"
 		},
 		{
-			"path": "../../api.dave.io"
+			"path": "/Users/dave/src/github.com/daveio/api.dave.io"
 		}
 	]
 }
