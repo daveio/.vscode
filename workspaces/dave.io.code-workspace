@@ -4,13 +4,19 @@
       "path": "/Users/dave/src/github.com/daveio/dave.io"
     },
     {
-      "path": "/Users/dave/src/github.com/daveio/go.dave.io"
+      "path": "/Users/dave/src/github.com/daveio/api.dave.io"
+    },
+    {
+      "path": "/Users/dave/src/github.com/daveio/blog.dave.io"
+    },
+    {
+      "path": "/Users/dave/src/github.com/daveio/cv.dave.io"
     },
     {
       "path": "/Users/dave/src/github.com/daveio/feeds.dave.io"
     },
     {
-      "path": "/Users/dave/src/github.com/daveio/api.dave.io"
-    }
+      "path": "/Users/dave/src/github.com/daveio/go.dave.io"
+    },
   ]
 }
